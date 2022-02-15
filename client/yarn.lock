@@ -5746,9 +5746,10 @@ js-base64@^2.1.8:
   resolved "https://registry.yarnpkg.com/js-base64/-/js-base64-2.6.4.tgz#f4e686c5de1ea1f867dbcad3d46d969428df98c4"
   integrity sha512-pZe//GGmwJndub7ZghVHz7vjb2LgC1m8B07Au3eYqeqv9emhESByMXxaEgkUkEqJe87oBbSniGYoQNIBklc7IQ==
 
-"js-form-validator@git+https://github.com/via-profit/js-form-validator.git":
-  version "0.0.0"
-  resolved "git+https://github.com/via-profit/js-form-validator.git#f3cc0eebd181cda6220d93f2c670025d3ead500a"
+js-form-validator@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/js-form-validator/-/js-form-validator-1.0.2.tgz#4e20d262e6b1ca5b0a92baae868f19603aa85d89"
+  integrity sha1-TiDSYuaxylsKkrquho8ZYDqoXYk=
 
 js-stringify@^1.0.1, js-stringify@^1.0.2:
   version "1.0.2"
@@ -7975,6 +7976,11 @@ punycode@^2.1.0, punycode@^2.1.1:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
+
+pure-js-validator@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/pure-js-validator/-/pure-js-validator-1.0.2.tgz#ec5025aefe282918496d6ad2b49d1e20537c9a90"
+  integrity sha512-I/lLfCMXHD8HBo5Yq7pSxLuG0EwcLYLdPYMLEoIrEKi/KHlxUOmSEnDFW9hVtk4X3SPqbh2q7R0M5CdaEyk+Mg==
 
 q@^1.1.2:
   version "1.5.1"
